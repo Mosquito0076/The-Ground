@@ -1,5 +1,9 @@
 # ⚾ The Ground : 보이지 않는 손
 
+![썸네일](https://user-images.githubusercontent.com/95673624/231113023-9f83d85f-a69b-41c9-a5c1-b85f4078c355.png)
+
+[The Ground 시연 영상](https://www.youtube.com/watch?v=XgXxU2CsRJM)
+
 ## 📜 설명
 
 자신만의 드림팀을 구성하고 전략적 시뮬레이션 게임을 할 수 있는 실제 선수 데이터 기반의 야구 시뮬레이션 웹게임 서비스입니다.
@@ -58,4 +62,5 @@
 
 ## **🔗 자세한 내용**
 
-- [The Ground : 보이지 않는 손](https://gaudy-veil-46f.notion.site/The-Ground-a21accf657914deda3c494fbaa347cb1)
+- [프로젝트 Notion](https://gaudy-veil-46f.notion.site/The-Ground-a21accf657914deda3c494fbaa347cb1)
+- [개인 작업 내용](https://github.com/Mosquito0076/The-Ground-Remind)
