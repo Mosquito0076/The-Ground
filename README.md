@@ -38,6 +38,7 @@
     |react-howler|^5.2.0|백그라운드 자동 음악 재생|
     |react-icons|^4.4.0|디자인적인 아이콘 적용|
     |react-persist|^6.0.0|페이지 새로고침시 휘발되는 state 방지|
+    |http-proxy-middleware|^2.0.6|Proxy를 이용한 CORS 에러 방지|
 - 백엔드
     |이름|버전|적용|
     |---|---|---|
